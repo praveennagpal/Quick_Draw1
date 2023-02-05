@@ -1,0 +1,53 @@
+#score{
+    font-size: 30px;
+    float: left;
+    margin-left:  40px;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+#timer {
+    font-size: 30px;
+    float: right;
+    margin-right: 40px;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+#sketch_to_be_drawn{
+    color: red;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+h1 {
+    margin-top: 0px;
+    font-weight: bold;
+    color: rgb(38, 0, 255);
+    background-color: cornsilk;
+    font-family: cursive;
+    
+}
+
+#show_sketch {
+    float: right;
+    font-family: cursive;
+}
+
+#sketch { 
+    font-size: 25px;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+#confidence{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+body {
+    background-color: #fbd139;
+}
+
